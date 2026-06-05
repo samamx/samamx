@@ -7,7 +7,6 @@
 
 👩🏽‍💻 Software Developer<br>
 👩🏽‍🎓 Studying MSc Computer Science with Artificial Intelligence<br>
-📚Currently learning about DevOps
 
 
 # 💻 Tech Stack:
